@@ -11,6 +11,11 @@ GitHub username: sejlavaljevac
 
 ---
 
+## Uvod
+Ja sam Šejla Valjevac, imam 22 godine i dolazim iz Brčkog. Studentica sam treće godine Fakulteta elektrotehnike usmjerenja Telekomunikacije i informacione tehnologije.
+
+--- 
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
